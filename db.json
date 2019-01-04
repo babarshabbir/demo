@@ -1,14 +1,4 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+{"id":1,"label":"Leaving In 2 Minutes","contents":"Your school car ${CABTYPE} is waiting at ${ADDRESS} and would be leaving after 2 minutes.","minToWait":5},
+{"id":2,"label":"Please Come Out","contents":"Your school car ${CABTYPE} is waiting at ${ADDRESS} please come out as soon as you can.","minToWait":2}
+]
